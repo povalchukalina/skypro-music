@@ -6,7 +6,7 @@ function App() {
   return (
       <div className="App">
           <header className="App_Name"> 
-              Здесь скоро будет Skypro.Music
+              Здесь скоро будет Skypro.Music!
           </header>
       </div>
   );
